@@ -1,2 +1,5 @@
-# C4-Architecture-Model Architecture 🦺
-Explaining 👨‍🏫 what is C4 model 🤔. And what it's used for ?
+# C4-Architecture-Model Architecture:(Context, Container, Component, and Code)
+### What Is the C4 Model 🤔? 
+The C4 model, created by Simon Brown, is an abbreviation for Context, Container, Component, and Code — the four levels of this model. It is a lean graphical notation technique designed to depict the architecture of software systems. The C4 model addresses the need for software architecture visualization at varying levels of detail, from high-level system context down to the level of code.<br>
+This model provides a way for software developers, architects, and stakeholders to comprehend a software system without getting lost in the details. It is specifically designed to express the architecture of software systems in a way that is easy to understand by all involved parties, thus bridging the communication gap between technical and non-technical stakeholders.<br>
+One of the key features of the C4 model is its simplicity. Unlike other complex architecture models, the C4 model is easy to understand and implement. It doesn't require specialist knowledge or training to understand or use it. Additionally, it does not rely on a specific technology or programming language, making it extremely versatile.
